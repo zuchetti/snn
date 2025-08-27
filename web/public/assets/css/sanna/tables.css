@@ -1,0 +1,94 @@
+
+#divici{
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #01a851;
+    margin-top: 10px;
+}
+
+#forma{
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.18px;
+    text-align: center;
+    color: #01a851;
+    margin-top: 10px;
+}
+
+.log{
+    width: 127px;
+  height: 38px;
+}
+
+.filaa{
+    margin-bottom: 28px;
+}
+
+.table-bordered {
+    border: 1px solid #01a851 !important;
+}
+
+.table-bordered td, .table-bordered th {
+    border: 1px solid #01a851 !important;
+}
+
+.table td, .table th {
+    padding: 7px !important;
+    vertical-align: top;
+    font-size:14px;
+}
+
+.titlet{
+    color: #01a851;
+    font-size:14px;
+
+}
+
+.titlet3{
+    color: #fff;
+    font-size:14px;
+
+}
+
+.medic{
+    background-color: #01a851;
+}
+
+.titlet2{
+    color: #01a851;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal
+
+}
+
+.pad{
+    margin-top: 5px;
+}
+
+#download{
+    border-radius: 4px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.3);
+    background-color: #01a851;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+    text-align: center;
+    width: 100%;
+}

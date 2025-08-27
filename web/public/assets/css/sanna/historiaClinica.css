@@ -1,0 +1,177 @@
+
+#label{
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #616161;
+    margin-bottom: 5px;
+}
+
+.input{
+    border-radius: 6px;
+    border: solid 1px #eeeeee;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #616161;
+    margin-bottom: 24px;
+}
+
+#textp{
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    color: #434343;
+}
+
+
+th {
+    font-size: 14px;
+    background-color: #01a851;
+    border-color: #ffffff;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+td{
+    font-size: 13px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #616161;
+    border-color: #ffffff;
+
+
+}
+
+#text77{
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #01a851;
+    margin-top: 20px;
+    margin-bottom: 23px;
+}
+.custom-file-input{
+    border-radius: 6px !important;
+    border: solid 1px #eeeeee !important;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #616161 !important;
+
+    padding: 0px !important;
+}
+.custom-file-input ~ .custom-file-label::after {
+    content: "Elegir";
+}
+#custom-file{
+    margin-bottom: 14px !important;
+}
+.fa-redo-alt{
+    color: #007bff;
+    cursor: pointer;
+    margin-left: 10px;
+    font-size:18px;
+
+}
+
+.fa-minus-circle{
+    color: #dc3545;
+    cursor: pointer;
+    font-size:18px;
+}
+
+.disabled {
+    pointer-events: none;
+    cursor: default;
+}
+
+.btn-add{
+    background-color: #01a851;
+    color: #ffffff;
+}
+.btn-add:hover{
+    color: #ffffff;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #ffffff;
+    background-color: #01a851;
+    border-color: transparent;
+}
+
+.nav-tabs .nav-link {
+    border-radius: 4px !important;
+    border: solid 1px #01a851;
+    padding-top: 12px !important;
+    padding-bottom: 12px !important;
+    margin-left: 10px;
+    color: #01a851;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    
+}
+
+.nav-tabs {
+    border-bottom: 0px !important;
+}
+
+.table-bordered td, .table-bordered th {
+    border: 1px solid #01a851;
+}
+
+
+#h1_23{
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #01a851;
+}
+
+
+#label2{
+    font-size: 17.6px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+    color: #01a851;
+    margin-bottom: 24px;
+    margin-top: 24px;
+}
+
+.delivery{
+    margin-bottom: 22px;
+}
+
+.fa-edit{
+    color: #01a851;
+    font-size:30px;
+    cursor: pointer;
+}
+

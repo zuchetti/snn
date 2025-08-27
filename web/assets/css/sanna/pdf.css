@@ -1,0 +1,223 @@
+
+
+
+.divPDF{
+    padding-top: 25px;
+    padding-bottom: 30px;
+  
+    height: 100%;
+    margin-bottom: 60px;
+}
+
+#ordenm{
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #616161;
+    margin-bottom: 10px;
+}
+
+
+.imgLogo{
+    width: 153px;
+
+}
+
+.sectionL{
+
+    border-bottom: solid 1px #01a851;
+    padding-bottom: 17px;
+    margin-bottom: 20px;
+  
+}
+
+
+.sectionL3{
+    border-bottom: solid 2px #01a851;
+    padding-bottom: 17px;
+    margin-bottom: 20px;
+}
+
+.border12{
+
+    border-right: solid 1px #01a851;
+    padding-right: 50px;
+}
+.border1{
+
+    border-right: solid 1px #01a851;
+    padding-left: 25px;
+    padding-right: 50px;
+}
+.border2{
+
+    padding-left: 50px;
+}
+
+
+#text1{
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #01a851;
+    margin-top: 14px;
+}
+
+#text2{
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #01a851;
+    margin-left: 27px;
+    margin-top: 14px;
+}
+
+#text3{
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #616161;
+    margin-bottom: 10px;
+}
+
+#text46{
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #616161;
+    margin-right: 18px;
+}
+
+#text46e{
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #616161;
+}
+
+.sectionL2{
+    margin-bottom: 22px;
+}
+#tt{
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #616161;
+    margin-bottom: 6px;
+}
+
+#separar4{
+    padding-bottom: 4.3px;
+    border-bottom: solid 1px #01a851;
+    margin-bottom: 20px;
+}
+
+.table-bordered td, .table-bordered th {
+    border: 1px solid #01a851;
+}
+
+.table thead th {
+    border-bottom: 1.5px solid #01a851;
+}
+
+.firma{
+    border: solid 1px #01a851;
+    margin-bottom: 6px;
+}
+
+.imgFirma{
+    margin-top: -40px;
+    width: 166px;
+
+}
+
+.divp{
+    padding-top: 17px;
+    padding-left: 23px;
+    padding-right: 23px;
+
+}
+#yy{
+    font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #616161;
+}
+
+#desca{
+    font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #01a851;
+  margin-top: 14px;
+
+}
+
+#pacien{
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #01a851;
+}
+
+#pacien2{
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #01a851;
+    margin-top: 8px;
+}
+
+.divEs{
+    border-bottom: solid 1px #01a851;
+    margin-top: 14px;
+    width: 100%;
+}
+
+.divEs2{
+    border-bottom: solid 1px #01a851;
+    margin-top: 14px;
+    width: 100%;
+}
+.divEs4{
+    border-bottom: solid 1px #01a851;
+    width: 100%;
+    margin-top: 6px;
+}
+
+.fila{
+    margin-bottom: 33px;
+}

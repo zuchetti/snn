@@ -1,0 +1,132 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Regular.ttf');
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+}
+
+a,
+input,
+a:hover,
+a:focus {
+    color: inherit;
+    text-decoration: none;
+    transition: all 0;
+}
+
+.navbar-toggler,
+a,
+button,
+input:focus {
+    border-color: inherit !important;
+    -webkit-box-shadow: none;
+    box-shadow: none !important;
+    border: transparent !important;
+}
+
+#h1{
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #01a851;
+    margin-bottom: 35px;
+    text-align: center;
+}
+
+#h11{
+    font-size: 25px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #01a851;
+}
+
+.logo{
+    margin-bottom: 55px;
+}
+
+#pp{
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #949494;
+    margin-bottom: 32px;
+
+}
+.input-group{
+
+    margin-bottom: 16px;
+}
+.campo{
+    border-radius: 8px !important;
+    background-color: #f3f3f3 !important;
+    padding:16px;
+  
+    border: transparent !important;
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+}
+
+#enlace{
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #01a851;
+
+}
+
+#button{
+    border-radius: 8px;
+    box-shadow: 0 0 1px 1px rgba(26, 19, 106, 0.07);
+    background-color: #01a851;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    width: 100%;
+    margin-top: 22px;
+}
+
+
+.input-group-text {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: .375rem .75rem;
+    margin-bottom: 0;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    text-align: center;
+    white-space: nowrap;
+    background-color: rgba(216, 216, 216, 0.3) !important;
+    border-top-left-radius: 8px !important;
+    border-bottom-left-radius: 8px !important;
+    border: 0px !important;
+    border-color: transparent !important;
+}

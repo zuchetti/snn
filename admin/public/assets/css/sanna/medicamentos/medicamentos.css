@@ -1,0 +1,21 @@
+
+
+#label{
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    color: #494949;
+    margin-bottom: 4px;
+}
+
+.campo{
+  
+    margin-bottom: 20px;
+
+}
+.dias{
+    margin-bottom: 20px;
+    border-bottom: 1px solid #eeeeee;
+}
