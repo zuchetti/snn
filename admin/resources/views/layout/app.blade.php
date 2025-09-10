@@ -19,7 +19,19 @@
 		<link href="{{ asset('assets/css/skins/aside/dark.css') }}" rel="stylesheet" type="text/css" />
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
         <script>url='{{asset('')}}'</script>
+		{{-- AGREGAR: Patches de seguridad --}}
+		<script src="{{ asset('assets/plugins/custom/security-patches.js') }}"></script>
 
+		{{-- Forzar re-inicialización segura --}}
+		<script>
+		document.addEventListener('DOMContentLoaded', function() {
+			// Re-aplicar configuraciones seguras después de que Metronic cargue
+			setTimeout(function() {
+				// Trigger evento personalizado para componentes seguros
+				$(document).trigger('kt.security.init');
+			}, 100);
+		});
+		</script>
 
 		 @stack('css')
 
